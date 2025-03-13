@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Phuc Huy</h1>
-<h3 align="center">I am passionate about and currently studying web development, and I have set a goal to join an internship position as a Fullstack developer to have the opportunity to put my knowledge into practice and develop my web programming skills.</h3>
+<h3 align="center">I am passionate about and currently studying web development.</h3>
 
 - 📫 How to reach me **nghuy31203@gmail.com**
 
